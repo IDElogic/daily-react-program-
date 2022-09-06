@@ -12,11 +12,11 @@ const Navbar = () => {
       <a href="#home"><img src={images.sticky} alt="..." style={{ marginTop: '1rem  0'}} /></a>
       </div>
       <ul className="navbar-links">
-        <li><a href="">Modal</a></li>
-        <li><a href="">Counter</a></li>
+        <li><a href="">Search from List</a></li>
+        <li><a href="">Tabs</a></li>
         <li><a href="">Random Generator</a></li>
         <li><a href="">Accordion</a></li>
-        <li><a href="">Search</a></li>
+        <li><a href="">Slider</a></li>
         <li><a href="">Visibility Toggle</a></li>
         <li><a href="">Contact</a></li>  
       </ul>
@@ -26,12 +26,11 @@ const Navbar = () => {
           <div className="navbar-smallscreen-overlay flex-center slide-bottom">
             <GiHamburgerMenu fontSize={24} className="overlay-close" onClick={() => setToggleMenu(false)} />
             <ul className="navbar-smallscreen-links">
-              <li><a href="" onClick={() => setToggleMenu(false)}>Modal</a></li>
-              <li><a href="" onClick={() => setToggleMenu(false)}>Weather Forecast</a></li>
-              <li><a href="" onClick={() => setToggleMenu(false)}>Counter</a></li>
+              <li><a href="" onClick={() => setToggleMenu(false)}>Search from List</a></li>
+              <li><a href="" onClick={() => setToggleMenu(false)}>Tabs</a></li>
               <li><a href="" onClick={() => setToggleMenu(false)}>Random Generator</a></li>
               <li><a href="" onClick={() => setToggleMenu(false)}>Accordion</a></li>
-              <li><a href="" onClick={() => setToggleMenu(false)}>Search</a></li>
+              <li><a href="" onClick={() => setToggleMenu(false)}>Slider</a></li>
               <li><a href="" onClick={() => setToggleMenu(false)}>Visibility Toggle</a></li>
               <li><a href="" onClick={() => setToggleMenu(false)}>Contact</a></li>   
             </ul>

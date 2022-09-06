@@ -18,13 +18,19 @@
     transform:translateY(-50%);
     opacity: 0;
 }
+.span  {
+    color: var(--color-secondary);
+    font-size: 24px;
+    font-weight: 700;
+    padding-bottom: 2em;
+   
+}
 .glass {
    position: absolute; 
-   width: 50%;
-   height: 50%;
-   border-radius: 5%;
+   width: 90%;
+   height: 100%;
    top: 2em;
-   left: 30%;
+   right: 0;
    background: rgba(248, 248, 255, 0.25);
    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.3);
    backdrop-filter: blur(5px);
@@ -33,23 +39,19 @@
    display: flex;
    justify-content: center;
    align-items: flex-end;
+   border-bottom-left-radius: 50%;
    
 }
 .h-glass {
-    background: url("../../assets/bg.jpg")
-    center no-repeat fixed;
-    background-size: cover;
-    color: transparent;
-    background-clip: text;
-    -webkit-text-fill-color:transparent;
+    color: var(--color-secondary);
     top: 20%;
-    right: 0;
+    left: 0;
     animation: text1 0.8s ease-in forwards;
 }
 .h-regular {
     color: var(--color-alice-blue);
-    top: 40%;
-    left: 68%;
+    top: 50%;
+    left: 10%;
     animation: text2 0.8s ease-in forwards ;
     animation-delay: 500ms;   
 }

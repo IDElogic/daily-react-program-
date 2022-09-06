@@ -11,8 +11,8 @@ const Footer = () => (
   <div className='footer-links' >
       <div className='footer-links-contact'>
           <h1 className='footer-headtext'>Sections</h1>
-          <a href=""><p className='p'>Modal</p></a>
-          <a href=""><p className='p'>Counter</p></a>
+          <a href=""><p className='p'>Search from List</p></a>
+          <a href=""><p className='p'>Tabs</p></a>
           <a href=""><p className='p'>Random Generator</p></a>
       </div>
       <div className='footer-links-logo'>      
@@ -28,7 +28,7 @@ const Footer = () => (
       <div className='footer-links-work'>
           <h1 className='footer-headtext'>Projects</h1>
           <a href=""><p className='p'>Accordion</p></a> 
-          <a href=""><p className='p'>Profile List With Search</p></a>
+          <a href=""><p className='p'>Slider</p></a>
           <a href=""><p className='p'>Password Visibility Toggle</p></a>
           
       </div>
