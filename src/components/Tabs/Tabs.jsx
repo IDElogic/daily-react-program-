@@ -13,7 +13,7 @@ const Tabs = () => {
     <section className="tabs-section" id="tabs">
       <div className="container">
         <div className="tabs-heading">
-          <h2 className="line">React Basic Projects</h2>
+          <h2 className="line">Tabs Variation</h2>
           <p className="text">Click the Tab </p>
         </div>
 
@@ -56,7 +56,6 @@ const Tabs = () => {
               Visibility Toggle
             </button>
           </div>
-
           <div className="tabs-content">
             <article
               className={tabIndex === 1 ? "content active-content" : "content"}

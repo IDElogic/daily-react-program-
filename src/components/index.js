@@ -2,6 +2,7 @@ import Navbar from "./Navbar/Navbar";
 import Modal from "./Modal/Modal";
 import Profile from "./Profile/Profile";
 import Tabs from "./Tabs/Tabs";
+import RandomGenerator from "./RandomGenerator/RandomGenerator";
 import PageNotFound from "./PageNotFound/PageNotFound";
 import DownloadButton from "./DownloadButton/DownloadButton";
 import ScrollToTop from "./ScrollToTop/ScrollToTop";
@@ -14,4 +15,5 @@ export {
   Modal,
   Tabs,
   Profile,
+  RandomGenerator,
 };
