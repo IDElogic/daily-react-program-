@@ -63,9 +63,7 @@ const Tabs = () => {
               <h4>Search from List </h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-                fugit numquam temporibus. Reiciendis quod rerum atque
-                consequatur porro inventore voluptate harum blanditiis facilis
-                veniam nesciunt voluptatum cumque, quo, a saepe?
+                fugit numquam temporibus. 
               </p>
             </article>
             <article
@@ -74,9 +72,7 @@ const Tabs = () => {
               <h4>Tabs</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-                fugit numquam temporibus. Reiciendis quod rerum atque
-                consequatur porro inventore voluptate harum blanditiis facilis
-                veniam nesciunt voluptatum cumque, quo, a saepe?
+                fugit numquam temporibus. 
               </p>
             </article>
             <article
@@ -85,9 +81,7 @@ const Tabs = () => {
               <h4>Random Generator</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-                fugit numquam temporibus. Reiciendis quod rerum atque
-                consequatur porro inventore voluptate harum blanditiis facilis
-                veniam nesciunt voluptatum cumque, quo, a saepe?
+                fugit numquam temporibus. 
               </p>
             </article>
             <article
@@ -96,9 +90,7 @@ const Tabs = () => {
               <h4>Accordion</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-                fugit numquam temporibus. Reiciendis quod rerum atque
-                consequatur porro inventore voluptate harum blanditiis facilis
-                veniam nesciunt voluptatum cumque, quo, a saepe?
+                fugit numquam temporibus. 
               </p>
             </article>
             <article
@@ -107,9 +99,7 @@ const Tabs = () => {
               <h4>Slider</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-                fugit numquam temporibus. Reiciendis quod rerum atque
-                consequatur porro inventore voluptate harum blanditiis facilis
-                veniam nesciunt voluptatum cumque, quo, a saepe?
+                fugit numquam temporibus. 
               </p>
             </article>
             <article
@@ -118,9 +108,7 @@ const Tabs = () => {
               <h4>Visibility Toggle</h4>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis
-                fugit numquam temporibus. Reiciendis quod rerum atque
-                consequatur porro inventore voluptate harum blanditiis facilis
-                veniam nesciunt voluptatum cumque, quo, a saepe?
+                fugit numquam temporibus. 
               </p>
             </article>
           </div>

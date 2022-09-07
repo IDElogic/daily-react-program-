@@ -18,7 +18,7 @@ const Profile = () => {
   };
 
   return (
-    <section className="profile-sec">
+    <section className="profile-sec" id="search">
       <div className="container">
         <h2 className="text">LIST of React Projects</h2>
         <div className="form-control">

@@ -1,13 +1,13 @@
 .profile-sec {
-    height:100vh;
-    border-top: 1.4em solid var(--color-isabelline); 
+    height:100%;
+    border-top: .5px solid var(--color-smallow); 
     display: flex; 
     justify-content: center; 
   } 
 
 .container .text {
    text-align: center;
-   padding-top: 2em;
+   padding-top: 1.5em;
    color: var(--color-alice-blue);
 }
 .form-control {
@@ -15,10 +15,9 @@
 }
 input {
     width: 80%;
-    height: 50px;
     background: rgba(0, 0, 0, .2);
-    margin: 2em 30% 2em 10%;
-    padding: 2em;
+    margin: 1em 30% 1em 10%;
+    padding: 1em;
     border: none;
 }
 .placeholder {

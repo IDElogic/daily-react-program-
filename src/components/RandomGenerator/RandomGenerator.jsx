@@ -23,7 +23,7 @@ const RandomGenerator = () => {
   }, []);
 
   return (
-    <section className="random-section">
+    <section className="random-section" id="random">
       <div className="random-container">
       <img src={sticky} alt="sticky" className="sticky" />
         <h2>Text Generator</h2> 
